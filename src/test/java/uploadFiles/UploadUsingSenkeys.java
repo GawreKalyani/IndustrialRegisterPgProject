@@ -11,7 +11,7 @@ public class UploadUsingSenkeys {
 	WebDriver driver;
 	
 	@Test
-	public void upload() throws InterruptedException{
+	public void upload() {
 		System.setProperty("webdriver.chrome.driver", "chromedriver.exe");
 		 driver=new ChromeDriver();
 		driver.manage().window().maximize();
