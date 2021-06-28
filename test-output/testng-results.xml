@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="19505" started-at="2021-06-28T05:44:45Z" finished-at="2021-06-28T05:45:04Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="19505" started-at="2021-06-28T05:44:45Z" finished-at="2021-06-28T05:45:04Z">
+      <class name="uploadFiles.UploadFileUsingRobot">
+        <test-method status="PASS" signature="test()[pri:0, instance:uploadFiles.UploadFileUsingRobot@7cd62f43]" name="test" duration-ms="19486" started-at="2021-06-28T11:14:45Z" finished-at="2021-06-28T11:15:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+      </class> <!-- uploadFiles.UploadFileUsingRobot -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

@@ -1,0 +1,6 @@
+2021-06-25 14:22:36,595  INFO [main] TestBase:31 - initializing browser
+2021-06-25 14:22:36,595  INFO [main] TestBase:35 - chrome browser opened
+2021-06-25 14:22:38,786  INFO [main] TestBase:53 - Automation testing application is launched
+2021-06-25 14:22:43,615  INFO [main] TestBase:57 - maximizing browser window
+2021-06-25 14:22:59,299  INFO [main] TestBase:340 - [Hindi, English]
+2021-06-25 14:22:59,299  INFO [main] TestBase:345 - [Hindi, English]
